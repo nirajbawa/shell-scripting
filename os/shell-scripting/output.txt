@@ -1,0 +1,2 @@
+reversed string : jarin
+string is not palindrome

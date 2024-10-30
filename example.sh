@@ -1,1 +1,0 @@
-read -r "enter number : " 
